@@ -3,9 +3,15 @@
 
 
 ## How to launch a new Minecraft Server Container
-
-docker pull vital7/minecraft_server
-
-docker run -d --name minecraft_server -p 25565:25565 vital7/minecraft_server
-
-docker logs minecraft_server
+- Pull the image
+  ```bash
+  docker pull vital7/minecraft_server
+  ```
+- Run 
+  ```bash
+  docker run -d --name minecraft_server -p 25565:25565 vital7/minecraft_server
+  ```
+- Log
+  ```bash
+  docker logs minecraft_server
+  ```
