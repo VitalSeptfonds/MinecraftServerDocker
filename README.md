@@ -1,8 +1,6 @@
 # MinecraftServerDocker
-Minecraft Version 1.15.2  
-![Minecraft Version](https://img.shields.io/github/release/github/learning-lab-components.svg?label=Minecraft_Version)
+![Minecraft Version](https://img.shields.io/badge/Minecraft%20Verions-1.15.2-brightgreen)
 
-[![GitHub Package Registry version](https://img.shields.io/github/release/github/learning-lab-components.svg?label=GPR&logo=github)](https://github.com/github/learning-lab-components/packages/11396)
 
 ## How to launch a new Minecraft Server Container
 
