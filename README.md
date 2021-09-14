@@ -1,6 +1,6 @@
 # MinecraftServerDocker
 ![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.15.2-brightgreen)
-
+[![Build Status](https://github.com/VitalSeptfonds/MinecraftServerDocker/workflows/Bump%20version/badge.svg)](https://github.com/VitalSeptfonds/MinecraftServerDocker/workflows/Bump%20version/badge.svg)
 
 ## How to launch a new Minecraft Server Container
 - Pull the image
