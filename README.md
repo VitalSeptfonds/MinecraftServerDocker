@@ -1,6 +1,6 @@
 # MinecraftServerDocker
 ![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.15.2-brightgreen)
-![example workflow](https://github.com/VitalSeptfonds/MinecraftServerDocker/workflows/docker-image.yml/badge.svg)
+![example workflow](https://github.com/VitalSeptfonds/MinecraftServerDocker/action/workflows/docker-image.yml/badge.svg)
 ## How to launch a new Minecraft Server Container
 - Pull the image
   ```bash
